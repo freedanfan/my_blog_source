@@ -8,7 +8,7 @@
 
 - hexo
 - github
-- 主题：[[hexo-theme-yilia](https://github.com/litten/hexo-theme-yilia)]()
+- 主题：[hexo-theme-yilia](https://github.com/litten/hexo-theme-yilia)
 
 
 
