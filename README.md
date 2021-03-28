@@ -14,7 +14,11 @@
 
 安装步骤：
 
-参考：[超详细Hexo+Github博客搭建小白教程](https://zhuanlan.zhihu.com/p/35668237)
+参考：
+
+[GitHub+Hexo 搭建个人网站详细教程](https://zhuanlan.zhihu.com/p/26625249)
+
+[超详细Hexo+Github博客搭建小白教程](https://zhuanlan.zhihu.com/p/35668237)
 
 
 
